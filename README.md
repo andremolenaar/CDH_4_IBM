@@ -1,5 +1,6 @@
-## Cloudera Enterprise Data Hub workshop
-# Components used:
+# Cloudera Enterprise Data Hub workshop
+
+## Components used:
 1. CDH - Cloudera Manager
 2. Nifi 
 3. Kafka  
@@ -7,7 +8,7 @@
 5. Impala - SQL engine
 6. HUE - Hadoop User Experience
 
-# Register for the workshop and get a cluster
+## Register for the workshop and get a cluster
 Use the link [http://bit.ly/34aqULW](http://bit.ly/34aqULW)
 Use your corporate email, and the activation code **ACTIVATE4036**
 
