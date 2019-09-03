@@ -1,5 +1,4 @@
 ## Cloudera Enterprise Data Hub workshop
-#
 # Components used:
 1. CDH - Cloudera Manager
 2. Nifi 
