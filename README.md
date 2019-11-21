@@ -9,7 +9,7 @@
 6. HUE - Hadoop User Experience
 
 ## Register for the workshop and get a cluster
-Use the link [http://bit.ly/2D1JF88(http://bit.ly/2D1JF88)
+Use the link [http://bit.ly/2D1JF88](http://bit.ly/2D1JF88)
 Use your corporate email, and the activation code **ACTIVATE4871**
 
 After registration, a cluster for you will be provisioned on Azure.
