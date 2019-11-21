@@ -19,6 +19,6 @@ When the cluster is provisioned, you can start the workshop using the document *
 available in this repository.
 
 When the lab is completed, you may want to continue with more complex labs. You have 2 options:
-1. Use the **Extra Labs.pdf** found above. In that labs you are going to write to HBase using Phoenix.
+1. Use the **ExtraLab.pdf** found in this github. In that labs you are going to write to HBase using Phoenix.
 2. Use a webservice as a datasource and if time permits, work with the Schema Registry. These materials can be found at 
 [https://github.com/vsellappa/HDF-Workshop](https://github.com/vsellappa/HDF-Workshop)
