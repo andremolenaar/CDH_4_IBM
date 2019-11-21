@@ -18,3 +18,5 @@ Details of your azure account will be sent to you by email in about 15 minutes.
 When the cluster is provisioned, you can start the workshop using the document **CDH_NiFi_Kafka_Kudu labs for IBM.pdf**, also 
 available in this repository.
 
+When the lab is completed, you may want to continue with more complex labs, found at 
+[https://github.com/vsellappa/HDF-Workshop](https://github.com/vsellappa/HDF-Workshop)
